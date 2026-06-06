@@ -27,6 +27,11 @@ helper class
     margin-right: .5rem;
 }
 
+.msend-text{
+    
+}
+/* ........... */
+
 .container{
     width: 100%;
     height: 60rem;
@@ -181,7 +186,17 @@ helper class
     font-size: 1.1rem;
     position: relative;
 }
-
+/* .text__part::before{
+    content:' ';
+    width: 2rem;
+    height: 2rem;
+    background-color: red;
+    border-radius: 100%;
+    border: 1px solid #fff;
+    position: absolute;
+    left:-2rem;
+    top: 0rem;
+} */
 .text__part--price{
     font-size: 1.2rem;
     font-weight: bold;
